@@ -18,7 +18,7 @@ app.use(notFound); // Handle 404 Not Found errors
 app.use(errorHandlerMiddleware); // Handle other errors with the custom error handling middleware
 
 // Environment Variable for Port
-const port = process.env.PORT || 3000; // Use the specified port in the environment variable or default to 3000
+const port = process.env.PORT || 3001; // Use the specified port in the environment variable or default to 3000
 
 // Start function
 const start = async () => {

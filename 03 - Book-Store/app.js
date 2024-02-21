@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
 
 // MongoDB connection string from MongoDB Atlas
 const mongoURI =
-  "mongodb+srv://partiktanwar30402:blabla@task-manager.nniccqt.mongodb.net/";
+  "mongodb+srv://partiktanwar30402:p3xkwUbrfKvuYLc4@task-manager.nniccqt.mongodb.net/";
 
 // Options for the MongoDB connection
 
